@@ -28,7 +28,7 @@ const MealsSummary = () => {
   return (
     <section className={classes.summary}>
     <div>
-      <h2>Buy Candy</h2>
+      <h2>Buy Shoes</h2>
       <form onSubmit={handleSubmit}>
         <label>
           ID:
